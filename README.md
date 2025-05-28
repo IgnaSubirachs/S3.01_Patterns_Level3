@@ -1,10 +1,10 @@
-# 🚗 Parking Command Pattern Example
+# 🚗 Parking Interficies.Command Pattern Example
 
 ## 📄Description - Exercise Statement
 
-This project demonstrates the **Command design pattern** through a simple parking example.  
+This project demonstrates the **Interficies.Command design pattern** through a simple parking example.  
 The parking lot contains four types of vehicles: a car, a bicycle, a plane, and a boat.  
-The application allows starting, accelerating, and braking each vehicle by encapsulating these actions as command objects, following the Command pattern.
+The application allows starting, accelerating, and braking each vehicle by encapsulating these actions as command objects, following the Interficies.Command pattern.
 
 ---
 

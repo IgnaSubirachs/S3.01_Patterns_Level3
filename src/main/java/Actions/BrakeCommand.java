@@ -1,3 +1,5 @@
+package Actions;
+
 public class BrakeCommand implements Command {
     private Vehicle vehicle;
 

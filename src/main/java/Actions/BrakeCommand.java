@@ -1,4 +1,6 @@
 package Actions;
+import Interficies.Command;
+import Interficies.Vehicle;
 
 public class BrakeCommand implements Command {
     private Vehicle vehicle;

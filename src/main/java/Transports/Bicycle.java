@@ -1,4 +1,5 @@
-package Vehicle;
+package Transports;
+import Interficies.Vehicle;
 
 public class Bicycle implements Vehicle {
     public void start() { System.out.println("Interficies.Vehicle.Bicycle started!"); }

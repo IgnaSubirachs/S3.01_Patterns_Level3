@@ -5,6 +5,10 @@ import Actions.BrakeCommand;
 import Actions.StartCommand;
 import Interficies.Command;
 import Interficies.Vehicle;
+import Transports.Car;
+import Transports.Bicycle;
+import Transports.Boat;
+import Transports.Plane;
 
 public class Main {
     public static void main(String[] args) {
